@@ -2,7 +2,6 @@ import os
 import re
 from docx import Document
 
-ctk.set_default_color_theme("blue")
 
 try:
     from docx2pdf import convert
